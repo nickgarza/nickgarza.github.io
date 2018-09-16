@@ -6,4 +6,4 @@ Name: Nick Garza
 
 GitHub: [@nickgarza](https://github.com/nickgarza)
 
-LinkedIn: [@nicholaspgarza] (https://linkedin.com/nicholaspgarza)
+LinkedIn: [@nicholaspgarza] (https://linkedin.com/in/nicholaspgarza)
